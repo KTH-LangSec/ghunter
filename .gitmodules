@@ -1,0 +1,9 @@
+[submodule "ghunter4deno"]
+	path = ghunter4deno
+	url = https://github.com/KTH-LangSec/ghunter4deno.git
+[submodule "ghunter4node"]
+	path = ghunter4node
+	url = https://github.com/KTH-LangSec/ghunter4node.git
+[submodule "silentspring4ghunter"]
+	path = silentspring4ghunter
+	url = https://github.com/KTH-LangSec/silentspring4ghunter.git
