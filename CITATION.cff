@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Cornelissen"
+  given-names: "Eric"
+  orcid: "https://orcid.org/0009-0000-8376-6287"
+- family-names: "Shcherbakov"
+  given-names: "Mikhail"
+  orcid: "https://orcid.org/0000-0002-2621-5179"
+- family-names: "Balliu"
+  given-names: "Musard"
+  orcid: "https://orcid.org/0000-0001-6005-5992"
+title: "GHunter: Universal Prototype Pollution Gadgets in JavaScript Runtimes"
+version: 1.0.0
+date-released: 2024-08-14
+url: "https://github.com/KTH-LangSec/ghunter"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Cornelissen"
+    given-names: "Eric"
+    orcid: "https://orcid.org/0009-0000-8376-6287"
+  - family-names: "Shcherbakov"
+    given-names: "Mikhail"
+    orcid: "https://orcid.org/0000-0002-2621-5179"
+  - family-names: "Balliu"
+    given-names: "Musard"
+    orcid: "https://orcid.org/0000-0001-6005-5992"
+  title: "GHunter: Universal Prototype Pollution Gadgets in JavaScript Runtimes"
+  conference:
+    name: 33rd USENIX Security Symposium (USENIX Security 24)
+    location: Spock's Inn Hotel and Bar
+    address: 1200 Filbert St
+    city: Philadelphia
+    region: Pennsylvania
+    post-code: 19107
+    country: US
+    date-start: 2024-08-14
+    date-end: 2024-08-16
+  start: 3693
+  end: 3710
